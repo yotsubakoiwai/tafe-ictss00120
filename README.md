@@ -27,18 +27,16 @@
   jupyter lab
   ```
 
-3. For SVHN
-   a. Download 
+3. For respective dataset,
+  a. For SVHN, follow this [link to download the SVHN dataset](https://github.com/yotsubakoiwai/tafe-ictss00120/blob/main/src/svhn/data/README.md)
+  b. For AG News, follow this [link to download the AG News Classification dataset](https://github.com/yotsubakoiwai/tafe-ictss00120/blob/main/src/news/data/README.md)
      
-5. Open `notebook.ipynb` and run all cells sequentially.
-
-### Saved Models
-
-Pre-trained model checkpoints are available in the `saved_models/` directory and can be loaded directly for evaluation without retraining.
-
-### Results
-
-Generated outputs, evaluation metrics, and plots can be found in the `results/` directory.
+4. Saved Models
+   Pre-trained model checkpoints should be available in the `saved_models/` directory and can be loaded directly for evaluation without retraining.
+   a. For SVHN, follow this [link to download the model checkpoints]()
+   b. For AG News Classification, follow this [link to download the model checkpoints]()
+   
+5. Open `*.ipynb` and run all cells sequentially.
 
 
 ## 
