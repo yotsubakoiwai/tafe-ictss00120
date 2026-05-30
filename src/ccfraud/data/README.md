@@ -4,3 +4,7 @@
 2. Download creditcard.csv 
 3. Place all data files in the /ccfraud/data directory
 
+
+
+
+
