@@ -57,7 +57,7 @@
             └── *.pdf
       ```
 
-
+### ⚠️both svhn & news saved_models can all be downloaded from this [link](https://drive.google.com/drive/folders/1p-nsHgzaz1jSINvlfJm1XxR7XSUgvgol?usp=sharing)
 
 - ### **CC Fraud**
   - Contains all the files, powerpoint and report for the Credit Card Fraud Detection Group Project.
