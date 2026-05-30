@@ -10,27 +10,27 @@
 * Jupyter Notebook or JupyterLab
 
 ### Setup
+1. Clone the repository:
+  ```bash
+  git clone https://github.com/yotsubakoiwai/tafe-ictss00120.git
+  cd YOUR_REPOSITORY
+  ```
 
-Clone the repository:
+2. Launch Jupyter Notebook:
+  ```bash
+  jupyter notebook
+  ```
+  
+  or
+  
+  ```bash
+  jupyter lab
+  ```
 
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-or
-
-```bash
-jupyter lab
-```
-
-Open `notebook.ipynb` and run all cells sequentially.
+3. For SVHN
+   a. Download 
+     
+5. Open `notebook.ipynb` and run all cells sequentially.
 
 ### Saved Models
 
