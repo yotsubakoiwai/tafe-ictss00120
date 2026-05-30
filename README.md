@@ -41,6 +41,15 @@
 
 
 ## 
+### 🚀 Running the Notebook in Google Colab
+
+1. Open the [SVHN notebook]() or Open the [AG News notebook]() in Google Colab.
+2. Run all cells in sequence.
+3. The notebook will automatically load the trained model checkpoints from the respective saved_models/ directory.
+
+
+##
+
 
 - ### **SVHN**
   - Contains all files, notebook, plots, saved_models and report for the Street View House Number (SVHN) project part of AT4.
