@@ -7,4 +7,9 @@
 ### AG News Classification
 
 
+### CC Fraud
+This contains all the files, powerpoint and report for Credit Card Fraud Detection done by Group 4:
+Harrison, Alice, Jackie & Yali
+
+
 
