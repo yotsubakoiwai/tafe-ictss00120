@@ -5,9 +5,9 @@
 ### 💻 Running the Notebook on a Local Machine
 
 ### Prerequisites
-
 * Python 3.12+ (or the version used for development)
 * Jupyter Notebook or JupyterLab
+* Sufficient available disk space, as trained model checkpoints may be large
 
 ### Setup
 1. Clone the repository:
