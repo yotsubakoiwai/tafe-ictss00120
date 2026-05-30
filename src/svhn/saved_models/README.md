@@ -4,7 +4,7 @@ Due to GitHub file size limitations, trained model checkpoints are hosted separa
 
 Download the checkpoints from:
 
-**[Google Drive Link]**
+**[Google Drive Link](https://drive.google.com/drive/folders/1NSlxr619m81B493d8LEj4Nnx4JV1pRyN?usp=sharing)**
 
 Extract or copy the downloaded `.pth` files into:
 
