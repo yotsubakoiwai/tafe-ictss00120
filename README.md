@@ -28,20 +28,19 @@
   ```
 
 3. For respective dataset,
-  a. For SVHN, follow this [link to download the SVHN dataset](https://github.com/yotsubakoiwai/tafe-ictss00120/blob/main/src/svhn/data/README.md)
-  b. For AG News, follow this [link to download the AG News Classification dataset](https://github.com/yotsubakoiwai/tafe-ictss00120/blob/main/src/news/data/README.md)
+    - For SVHN, follow directions from this [link to download the SVHN dataset](https://github.com/yotsubakoiwai/tafe-ictss00120/blob/main/src/svhn/data/README.md)
+    - For AG News, follow directions from this [link to download the AG News Classification dataset](https://github.com/yotsubakoiwai/tafe-ictss00120/blob/main/src/news/data/README.md)
      
-4. Saved Models
-   Pre-trained model checkpoints should be available in the `saved_models/` directory and can be loaded directly for evaluation without retraining.
-   a. For SVHN, follow this [link to download the model checkpoints]()
-   b. For AG News Classification, follow this [link to download the model checkpoints]()
+5. Saved Models
    
-5. Open `*.ipynb` and run all cells sequentially.
+     Pre-trained model checkpoints should be available in the `saved_models/` directory and can be loaded directly for evaluation without retraining.
+     - For SVHN, follow directions from this [link to download the model checkpoints](https://github.com/yotsubakoiwai/tafe-ictss00120/blob/main/src/svhn/saved_models/README.md)
+     - For AG News Classification, follow directions from this [link to download the model checkpoints](https://github.com/yotsubakoiwai/tafe-ictss00120/blob/main/src/news/saved_models/README.md)
+   
+7. Open `*.ipynb` and run all cells sequentially.
 
 
 ## 
-
-### ⚠️both svhn & news saved_models can all be downloaded from this [link](https://drive.google.com/drive/folders/1p-nsHgzaz1jSINvlfJm1XxR7XSUgvgol?usp=sharing)
 
 - ### **SVHN**
   - Contains all files, notebook, plots, saved_models and report for the Street View House Number (SVHN) project part of AT4.
